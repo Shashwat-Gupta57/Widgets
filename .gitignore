@@ -1,0 +1,16 @@
+# build output
+*.class
+*.ctxt
+out/
+build/
+target/
+doc/
+*.jar
+*.exe
+
+# IDE
+.idea/
+*.iml
+
+# runtime state written by the app
+widget.properties
